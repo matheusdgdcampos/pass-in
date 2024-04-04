@@ -1,0 +1,32 @@
+_id: req_5eb9cfbd94594de3be5e91388106ddac
+type: Request
+parentId: fld_05e2049230994e91a0e81a6440a40fec
+modified: 1712232775824
+created: 1712102374983
+url: "{{ _.base_url }}/events"
+name: Criar Evento
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title": "Rocketseat NLW Unite 3.0",
+    	"details": "Aprenda várias tecnologias de forma gratuita e online",
+    	"maximumAttendees": 2
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712232765451
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

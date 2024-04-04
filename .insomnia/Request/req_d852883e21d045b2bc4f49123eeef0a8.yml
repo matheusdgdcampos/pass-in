@@ -1,0 +1,24 @@
+_id: req_d852883e21d045b2bc4f49123eeef0a8
+type: Request
+parentId: fld_4484873f49f44b4394299bedfcef69d2
+modified: 1712232740376
+created: 1712167277067
+url: "{{ _.base_url
+  }}/attendees/f4618297-1c10-4784-9f3d-10e059071319-ef04h2f9u/badge"
+name: Consulta cracha
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712232735233
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

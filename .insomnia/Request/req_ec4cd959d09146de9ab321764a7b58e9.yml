@@ -1,0 +1,23 @@
+_id: req_ec4cd959d09146de9ab321764a7b58e9
+type: Request
+parentId: fld_05e2049230994e91a0e81a6440a40fec
+modified: 1712232765320
+created: 1712105625622
+url: "{{ _.base_url }}/events/attendees/a4eb58a0-4a35-4827-9a57-3a076c1e15a8"
+name: Participantes do Evento
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712232765251
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

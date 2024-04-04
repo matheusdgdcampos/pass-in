@@ -1,0 +1,23 @@
+_id: req_157dbde605b94e22ac8de4dbf2668062
+type: Request
+parentId: fld_4484873f49f44b4394299bedfcef69d2
+modified: 1712232735192
+created: 1712169444360
+url: "{{ _.base_url }}/attendees/f4618297-1c10-4784-9f3d-10e059071319/check-in"
+name: Realiza check-in
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712232735133
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

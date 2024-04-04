@@ -1,0 +1,23 @@
+_id: req_cf9dfe654b114fe28fca5479c1d465e1
+type: Request
+parentId: fld_05e2049230994e91a0e81a6440a40fec
+modified: 1712232772730
+created: 1712102302320
+url: "{{ _.base_url }}/events/a4eb58a0-4a35-4827-9a57-3a076c1e15a8"
+name: Detalhes do Evento
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712232765351
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

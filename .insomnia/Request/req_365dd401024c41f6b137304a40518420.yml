@@ -1,0 +1,31 @@
+_id: req_365dd401024c41f6b137304a40518420
+type: Request
+parentId: fld_05e2049230994e91a0e81a6440a40fec
+modified: 1712232779443
+created: 1712166998575
+url: "{{ _.base_url }}/events/3a07a028-a301-41b0-b861-a8db65874603/attendees"
+name: Cria participante
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Matheus Campos Silva",
+    	"email": "example@email.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: insomnia/2023.5.8
+authentication: {}
+metaSortKey: -1712232765551
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
